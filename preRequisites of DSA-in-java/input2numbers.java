@@ -1,3 +1,4 @@
+// This program takes two integer inputs from the user and prints their sum.
 import java.util.Scanner;
 
 public class input2numbers {
